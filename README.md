@@ -9,7 +9,7 @@
 - 🔭 I’m currently working as IT Manager  
   
 
-- 🌱 I’m currently learning Angular, Python, DevOps and MySQL  
+- 🌱 I’m currently learning React, Express, Node.js and MariaDB  
   
 
 - ⚡ Software Engineering at Cruzeiro do Sul  
