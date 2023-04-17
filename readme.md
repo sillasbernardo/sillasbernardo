@@ -43,7 +43,7 @@ My experience in Fullstack development has also allowed me to understand the imp
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sillasbernardo&theme=dracula" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sillasbernardo&theme=dracula&hide=scss,html,css" />
 
 <img align="right" width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=sillasbernardo&theme=dracula" />
 
