@@ -4,7 +4,7 @@ About me
 
 **`Fullstack Developer | Software Engineer`**
 
-I'm a Fullstack Developer and a Software Engineering graduate. In the last years I've been mastering Web Development and this has led me to build some amazing web applications that have challenged my knowledge and helped individuals achieve their goals. My skills and expertise in web development have allowed me to create dynamic and user-friendly websites that meet the needs of clients and users.
+I'm a Frontend Developer and a Software Engineering graduate. In the last years I've been mastering Web Development and this has led me to build some amazing web applications that have challenged my knowledge and helped individuals achieve their goals. My skills and expertise in web development have allowed me to create dynamic and user-friendly websites that meet the needs of clients and users.
 
 In addition, I've been able to expand my knowledge in front-end development, using React to create responsive and interactive user interfaces. On the back-end side, I've become proficient in using Node.js along with MongoDB.
 
