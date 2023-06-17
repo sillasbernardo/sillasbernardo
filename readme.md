@@ -2,7 +2,7 @@ About me
 
 # <img src="./images/coder.png" width=25 /> **Sillas Bernardo**
 
-**`Fullstack Developer | Software Engineer`**
+**`Frontend Developer | Software Engineer`**
 
 I'm a Frontend Developer and a Software Engineering graduate. In the last years I've been mastering Web Development and this has led me to build some amazing web applications that have challenged my knowledge and helped individuals achieve their goals. My skills and expertise in web development have allowed me to create dynamic and user-friendly websites that meet the needs of clients and users.
 
