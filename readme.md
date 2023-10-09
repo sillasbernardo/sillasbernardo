@@ -2,9 +2,10 @@ About me
 
 # <img src="./images/coder.png" width=25 /> **Sillas Bernardo**
 
-**`Frontend Developer | Software Engineer`**
+**`Frontend Developer | VFX Artist`**
 
 I'm a Frontend Developer and graduating in Software Engineering. Since 2021, I've been coding Javascript and mastering Next, React, NodeJs, as well as Linux administration.
+Hi there. I'm a frontend developer and VFX artist. Graduating in Software Engineering, I code javascript since 2021 using React library and Nextjs framework. Check my instagram profile for VFX content.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sillasbernardo/">
